@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Loja.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "dependencies": {
+          "Loja.DTO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Loja.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Loja.DAL.dll": {}
+        }
+      },
+      "Loja.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "compile": {
+          "bin/placeholder/Loja.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Loja.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loja.DAL/1.0.0": {
+      "type": "project",
+      "path": "../Loja.DAL/Loja.DAL.csproj",
+      "msbuildProject": "../Loja.DAL/Loja.DAL.csproj"
+    },
+    "Loja.DTO/1.0.0": {
+      "type": "project",
+      "path": "../Loja.DTO/Loja.DTO.csproj",
+      "msbuildProject": "../Loja.DTO/Loja.DTO.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Loja.DAL >= 1.0.0",
+      "Loja.DTO >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\alber\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\alber\\source\\repos\\Loja\\Loja.BLL\\Loja.BLL.csproj",
+      "projectName": "Loja.BLL",
+      "projectPath": "C:\\Users\\alber\\source\\repos\\Loja\\Loja.BLL\\Loja.BLL.csproj",
+      "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alber\\source\\repos\\Loja\\Loja.BLL\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\alber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net4.7.2",
+          "projectReferences": {
+            "C:\\Users\\alber\\source\\repos\\Loja\\Loja.DAL\\Loja.DAL.csproj": {
+              "projectPath": "C:\\Users\\alber\\source\\repos\\Loja\\Loja.DAL\\Loja.DAL.csproj"
+            },
+            "C:\\Users\\alber\\source\\repos\\Loja\\Loja.DTO\\Loja.DTO.csproj": {
+              "projectPath": "C:\\Users\\alber\\source\\repos\\Loja\\Loja.DTO\\Loja.DTO.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net4.7.2",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\alber\source\repos\Loja\Loja.BLL\bin\Debug\net4.7.2\Loja.BLL.dll
+C:\Users\alber\source\repos\Loja\Loja.BLL\bin\Debug\net4.7.2\Loja.BLL.pdb
+C:\Users\alber\source\repos\Loja\Loja.BLL\bin\Debug\net4.7.2\Loja.DAL.dll
+C:\Users\alber\source\repos\Loja\Loja.BLL\bin\Debug\net4.7.2\Loja.DTO.dll
+C:\Users\alber\source\repos\Loja\Loja.BLL\bin\Debug\net4.7.2\Loja.DAL.pdb
+C:\Users\alber\source\repos\Loja\Loja.BLL\bin\Debug\net4.7.2\Loja.DTO.pdb
+C:\Users\alber\source\repos\Loja\Loja.BLL\obj\Debug\net4.7.2\Loja.BLL.csproj.AssemblyReference.cache
+C:\Users\alber\source\repos\Loja\Loja.BLL\obj\Debug\net4.7.2\Loja.BLL.AssemblyInfoInputs.cache
+C:\Users\alber\source\repos\Loja\Loja.BLL\obj\Debug\net4.7.2\Loja.BLL.AssemblyInfo.cs
+C:\Users\alber\source\repos\Loja\Loja.BLL\obj\Debug\net4.7.2\Loja.BLL.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\Loja\Loja.BLL\obj\Debug\net4.7.2\Loja.BLL.csproj.CopyComplete
+C:\Users\alber\source\repos\Loja\Loja.BLL\obj\Debug\net4.7.2\Loja.BLL.dll
+C:\Users\alber\source\repos\Loja\Loja.BLL\obj\Debug\net4.7.2\Loja.BLL.pdb
